@@ -54,7 +54,7 @@ Open **SQL Server Management Studio (SSMS)** and run the following scripts.
 First run:
 
 ```
-SharedTool.DAL/FirstInitial.sql
+SharedTool.DAL/Queries/FirstInitial.sql
 ```
 
 This script will:
@@ -70,7 +70,7 @@ This script will:
 After running the first script, run:
 
 ```
-SharedTool.DAL/data.sql
+SharedTool.DAL/Queries/data.sql
 ```
 
 This script contains **initial seed data required by the system**.
