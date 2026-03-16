@@ -103,8 +103,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Data.sql" />
-    <Content Include="FirstInitial.sql" />
+    <Content Include="Queries\Data.sql" />
+    <Content Include="Queries\FirstInitial.sql" />
     <Content Include="SharedToolModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>SharedToolModel.edmx</DependentUpon>
